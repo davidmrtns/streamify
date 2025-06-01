@@ -1,4 +1,4 @@
-# <img src="static/images/streamify_logo.png" width="80px" /> Streamify
+# <img src="/static/images/streamify_logo.png" width="80px" /> Streamify
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&style=for-the-badge)
